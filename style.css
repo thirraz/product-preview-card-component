@@ -115,7 +115,7 @@ h3 {
   margin-right: 0.5rem;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 550px) {
   .productImage {
     height: 260px;
     width: 100%;
